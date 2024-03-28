@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beatboxdcoder
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning MCA in Full Stack Development
+- 👀 I’m interested in Frontend Development.
+- 🌱 I've recently graduated MCA in Full Stack Development from Jain University, Bangalore.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me just ping me on this email divyagonja15@gmail.com
 
